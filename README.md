@@ -75,5 +75,5 @@ We are going to tackle `ticket #704724 - Entire banking system is down`. We star
   <img src="https://i.imgur.com/nxTxjud.png" height="65%" width="65%" alt="ticket updates"/>
   </p>
 <hr>
-<p align="center"><b>And that's the end of our osTicket project! :smile:
+<p align="center"><b>That's all I have for this. :smile:
 </b></p>
